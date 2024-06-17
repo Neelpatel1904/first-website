@@ -1,11 +1,10 @@
 ---
 title: "My First Website, second edition"
 ---
-about
-Neel patel
+## my name is **Neel patel** and I go to *bartlett High school*
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
 
